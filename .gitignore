@@ -43,3 +43,4 @@ Thumbs.db
 # Sproutcore
 frameworks/*
 tmp/**/*
+publish/*
